@@ -6,7 +6,7 @@
 
 ## 🌐 Website & Contact
 
-- **Website:** [afringan.com](https://afringan.com)
+- **Website:** [farzan.us](https://farzan.us)
 - **Biography:** [biography.afringan.com](https://biography.afringan.com)
 - **GitHub:** [github.com/farzan-dev13](https://github.com/farzan-dev13)
 
