@@ -31,6 +31,11 @@ Practical Linux scripts & documentation for hosting and infrastructure operation
 - `service-monitor.sh` – Simple service monitoring script  
 - `datacenter-notes.md` – Real-world datacenter operations and HP server experience
 
+
+### 🔹 [post-attack-security-check](https://github.com/farzan-dev13/post-attack-security-check)  
+A simple yet powerful Bash script for post-attack investigation on Linux systems.
+- `security-check.sh` _ Useful for sysadmins, security teams, and DevOps engineers to detect potential signs of compromise.
+
 ---
 
 ## 🧠 Philosophy
