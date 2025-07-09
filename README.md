@@ -18,6 +18,7 @@
 
 ⚔️ A practical guide to detect intrusions, investigate suspicious processes, users, shell backdoors, and more - using only Linux shell commands.
 
+---
 
 ## 🛠 Skills & Tools
 
