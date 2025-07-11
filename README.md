@@ -32,6 +32,13 @@
 
 ## 📂 Featured Projects
 
+
+### 📘 [list-users-script](https://github.com/farzan-dev13/list-users-script)
+A Bash script that displays a clean and detailed list of system users, including their UID, shell, type, login time, and account status.
+
+- `list_users.sh` – Human-friendly system user viewer script
+
+
 ### 🔹 [farzan-linux-tools](https://github.com/farzan-dev13/farzan-linux-tools)  
 Practical Linux scripts & documentation for hosting and infrastructure operations.
 
