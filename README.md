@@ -23,8 +23,8 @@
 ## 🛠 Skills & Tools
 
 **Networking:** Mikrotik (MTCNA, MTCRE, MTCWE, MTCUME, MTCTCE), LPIC-1/2/3, Network+  
-**Linux:** Bash scripting, advanced CLI, server administration (Debian, AlmaLinux, Alpine)  
-**Programming:** Python, Shell, automation tools  
+**Linux:** Bash scripting, advanced CLI, server administration (Debian, AlmaLinux, Alpine, Ubuntu, CloudLinux, ...)  
+**Programming:** Python, GO, C++, Shell, automation tools  
 **Hosting:** WHM/cPanel, PRTG, Cacti, SSL, DNS, Mail delivery troubleshooting  
 **Hardware:** HP G9 servers, RAID config, iLO, on-site datacenter experience
 
