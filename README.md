@@ -33,6 +33,13 @@
 ## 📂 Featured Projects
 
 
+### 🔧 und3rctrl-kit
+Post-exploitation and audit tools written in pure shell script — POSIX, portable, and minimal.  
+[`und3rctrl-kit`](https://github.com/farzan-dev13/und3rctrl-kit) – Lightweight pentest kit
+
+
+
+
 ### 📘 [list-users-script](https://github.com/farzan-dev13/list-users-script)
 A Bash script that displays a clean and detailed list of system users, including their UID, shell, type, login time, and account status.
 
