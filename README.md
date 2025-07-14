@@ -31,7 +31,12 @@
 ---
 
 ## 📂 Featured Projects
- 
+
+
+## 🔹 [Investigate-Compromised-Linux-Server](https://github.com/farzan-dev13/investigate-compromised-linux-server)
+Practical companion repo for my Dev.to article “How to Investigate a Compromised Linux Server”.
+It provides a ready-to-run Bash script, sample outputs, and reference commands.
+
 
 ### ⚙️ [und3rctrl-kit](https://github.com/farzan-dev13/und3rctrl-kit)
   ☢️  Post-exploitation and audit tools written in pure shell script — POSIX, portable, and minimal.  
