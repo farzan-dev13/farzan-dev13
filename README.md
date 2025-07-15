@@ -24,6 +24,16 @@
 
 ---
 
+
+## 🧠 Philosophy
+
+> "Great infrastructure is invisible – until it fails. I build for resilience and clarity."
+
+I'm passionate about building reliable networks, automating with purpose, and growing systems that scale.
+
+---
+
+
 📃 Technical Articles
 
 🐧 [Investigating High Disk I/O in Linux - Using iostat, iotop, and Visual Analysis](https://dev.to/farzandev13/investigating-high-disk-io-in-linux-using-iostat-iotop-and-visual-analysis-571d)
@@ -85,13 +95,7 @@ A simple yet powerful Bash script for post-attack investigation on Linux systems
 
 ---
 
-## 🧠 Philosophy
 
-> "Great infrastructure is invisible – until it fails. I build for resilience and clarity."
-
-I'm passionate about building reliable networks, automating with purpose, and growing systems that scale.
-
----
 
 ## ✨ Let's Connect
 
