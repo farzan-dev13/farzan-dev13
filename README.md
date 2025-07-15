@@ -15,9 +15,9 @@
 📃 Technical Articles
 
 🐧 [Investigating High Disk I/O in Linux - Using iostat, iotop, and Visual Analysis](https://dev.to/farzandev13/investigating-high-disk-io-in-linux-using-iostat-iotop-and-visual-analysis-571d)
-*Learn how to detect disk bottlenecks and visualize performance with Python tools.*
+- **Learn how to detect disk bottlenecks and visualize performance with Python tools.**
 <p align="center">
-  <img src="https://github.com/farzan-dev13/disk-io-analysis/blob/main/assets/disk2.png" width="600"/>
+  <img src="https://github.com/farzan-dev13/disk-io-analysis/blob/main/assets/disk2.png" width="400"/>
 </p>
 
 
