@@ -31,14 +31,13 @@
 
   <table>
     <tr>
-      <td align="right">
-        <a href="https://dev.to/farzandev13/investigating-high-disk-io-in-linux-using-iostat-iotop-and-visual-analysis-571d" target="_blank">
-  <img src="https://github.com/farzan-dev13/disk-io-analysis/blob/main/assets/disk2.png" width="400"/>
-</a>
-
-      </td>
+      <td> <a href="https://dev.to/farzandev13/investigating-high-disk-io-in-linux-using-iostat-iotop-and-visual-analysis-571d" target="_blank">
+          <img src="https://github.com/farzan-dev13/disk-io-analysis/blob/main/assets/disk2.png" width="400"/>
+        </a></td>
     </tr>
   </table>
+
+
 
 
 <br><br>
