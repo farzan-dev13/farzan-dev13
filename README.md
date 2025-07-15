@@ -28,9 +28,19 @@
 
 🐧 [Investigating High Disk I/O in Linux - Using iostat, iotop, and Visual Analysis](https://dev.to/farzandev13/investigating-high-disk-io-in-linux-using-iostat-iotop-and-visual-analysis-571d)
 - **Learn how to detect disk bottlenecks and visualize performance with Python tools.**
-<a href="https://dev.to/farzandev13/investigating-high-disk-io-in-linux-using-iostat-iotop-and-visual-analysis-571d" target="_blank">
+
+  <table>
+    <tr>
+      <td align="right">
+        <a href="https://dev.to/farzandev13/investigating-high-disk-io-in-linux-using-iostat-iotop-and-visual-analysis-571d" target="_blank">
   <img src="https://github.com/farzan-dev13/disk-io-analysis/blob/main/assets/disk2.png" width="400"/>
 </a>
+
+      </td>
+    </tr>
+  </table>
+
+
 <br><br>
 
 🐧 [ How to Investigate a Compromised Linux Server ](https://dev.to/farzandev13/-how-to-investigate-a-compromised-linux-server-1f78)
