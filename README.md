@@ -1,6 +1,21 @@
-# 👋 Hi, I'm Farzan Afringan
+### 🔥 *“I’ve dedicated my life to mastering the art of IT — from the command line to the core of infrastructure.”*
 
+<div align="center">
+
+# 👋 Hi, I'm Farzan Afringan  
 **Senior Network Engineer | Software Developer | AI-Driven Infrastructure Specialist**
+
+🌐 Networking  🔐 Cybersecurity  ⚙️ Infrastructure Automation  
+☁️ Cloud Architecture  🤖 AI-Driven Systems  💻 Backend Development
+
+I specialize in networking, cybersecurity, infrastructure automation, cloud architecture, AI-driven systems, and backend development —  
+combining deep technical expertise with real-world operations to build efficient, scalable, and secure environments.
+
+📖 Get Instant Access to My Latest Articles → [afringan.com](https://afringan.com)
+
+</div>
+
+---
 
 ---
 
