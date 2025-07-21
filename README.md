@@ -31,8 +31,8 @@ combining deep technical expertise with real-world operations to build efficient
 
 ## 🛠 Skills & Tools
 
-**Networking:** Mikrotik (MTCNA, MTCRE, MTCWE, MTCUME, MTCTCE), LPIC-1/2/3, CCNA, CCNP, Network+  
-**Linux:** Bash scripting, advanced CLI, server administration (Debian, AlmaLinux, Alpine, Ubuntu, CloudLinux, ...)  
+**Networking:** Mikrotik (MTCNA, MTCRE, MTCWE, MTCUME, MTCTCE), CCNA, CCNP, Network+  
+**Linux:** LPIC-1/2/3-303, Bash scripting, advanced CLI, server administration (Debian, AlmaLinux, Alpine, Ubuntu, CloudLinux, ...)  
 **Programming:** Python, GO, C++, Shell, automation tools  
 **Hosting:** WHM/cPanel, PRTG, Zabbix, SSL, DNS, Mail delivery troubleshooting  
 **Hardware:** HP G9 G10 servers, RAID config, iLO, on-site datacenter experience
