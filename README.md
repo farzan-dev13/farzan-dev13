@@ -79,13 +79,14 @@ I'm passionate about building reliable networks, automating with purpose, and gr
 A secure and flexible password generator written in Bash.  
 🔐 Generate strong passwords with custom length, quantity, and strength check.
 
-
+---
 
 
 ## 🔹 [Investigate-Compromised-Linux-Server](https://github.com/farzan-dev13/investigate-compromised-linux-server)
 Practical companion repo for my Dev.to article “How to Investigate a Compromised Linux Server”.
 It provides a ready-to-run Bash script, sample outputs, and reference commands.
 
+---
 
 ### ⚙️ [und3rctrl-kit](https://github.com/farzan-dev13/und3rctrl-kit)
   ☢️  Post-exploitation and audit tools written in pure shell script — POSIX, portable, and minimal.  
@@ -93,13 +94,13 @@ It provides a ready-to-run Bash script, sample outputs, and reference commands.
    🪖 [`und3rctrl-kit`](https://github.com/farzan-dev13/und3rctrl-kit) – Lightweight pentest kit
  
 
-
+---
 
 ### 📘 [list-users-script](https://github.com/farzan-dev13/list-users-script)
 A Bash script that displays a clean and detailed list of system users, including their UID, shell, type, login time, and account status.
 
 - `list_users.sh` – Human-friendly system user viewer script
-
+---
 
 ### 🔹 [farzan-linux-tools](https://github.com/farzan-dev13/farzan-linux-tools)  
 Practical Linux scripts & documentation for hosting and infrastructure operations.
@@ -108,6 +109,7 @@ Practical Linux scripts & documentation for hosting and infrastructure operation
 - `service-monitor.sh` – Simple service monitoring script  
 - `datacenter-notes.md` – Real-world datacenter operations and HP server experience
 
+---
 
 ### 🔹 [post-attack-security-check](https://github.com/farzan-dev13/post-attack-security-check)  
 A simple yet powerful Bash script for post-attack investigation on Linux systems.
