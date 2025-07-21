@@ -31,7 +31,7 @@ combining deep technical expertise with real-world operations to build efficient
 
 ## 🛠 Skills & Tools
 
-**Networking:** Mikrotik (MTCNA, MTCRE, MTCWE, MTCUME, MTCTCE), LPIC-1/2/3,CCNA, Network+  
+**Networking:** Mikrotik (MTCNA, MTCRE, MTCWE, MTCUME, MTCTCE), LPIC-1/2/3, CCNA, CCNP, Network+  
 **Linux:** Bash scripting, advanced CLI, server administration (Debian, AlmaLinux, Alpine, Ubuntu, CloudLinux, ...)  
 **Programming:** Python, GO, C++, Shell, automation tools  
 **Hosting:** WHM/cPanel, PRTG, Zabbix, SSL, DNS, Mail delivery troubleshooting  
