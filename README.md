@@ -73,8 +73,13 @@ I'm passionate about building reliable networks, automating with purpose, and gr
 
 
 ---
-
 ## 📂 Featured Projects
+
+### 👀 [Linux Password Generator](https://github.com/farzan-dev13/linux-password-generator)
+A secure and flexible password generator written in Bash.  
+🔐 Generate strong passwords with custom length, quantity, and strength check.
+
+
 
 
 ## 🔹 [Investigate-Compromised-Linux-Server](https://github.com/farzan-dev13/investigate-compromised-linux-server)
