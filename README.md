@@ -22,7 +22,7 @@ combining deep technical expertise with real-world operations to build efficient
 ## 🌐 Website & Contact
 
 - **Website:** [farzan.us](https://farzan.us)
-- **Biography:** [biography.afringan.com](https://biography.afringan.com)
+
 - **GitHub:** [github.com/farzan-dev13](https://github.com/farzan-dev13)
 
 ---
