@@ -64,13 +64,13 @@ I'm passionate about building reliable networks, automating with purpose, and gr
 
 <br>
 
----
+<hr style="border:0; height:1px; background-color:#ddd;" />
 
 🐧 [ How to Investigate a Compromised Linux Server ](https://dev.to/farzandev13/-how-to-investigate-a-compromised-linux-server-1f78)
 
 ⚔️ A practical guide to detect intrusions, investigate suspicious processes, users, shell backdoors, and more - using only Linux shell commands.
 
----
+<hr style="border:0; height:1px; background-color:#ddd;" />
 
 
 🔐 [How to Generate and Verify SSL Keys with OpenSSL – A Step-by-Step Guide](https://github.com/farzan-dev13/openssl-ssl-guide)
