@@ -63,12 +63,26 @@ I'm passionate about building reliable networks, automating with purpose, and gr
   </table>
 
 <br>
-
+---
 🐧 [ How to Investigate a Compromised Linux Server ](https://dev.to/farzandev13/-how-to-investigate-a-compromised-linux-server-1f78)
 
 ⚔️ A practical guide to detect intrusions, investigate suspicious processes, users, shell backdoors, and more - using only Linux shell commands.
 
+---
 
+
+🐧 [How to Generate and Verify SSL Keys with OpenSSL – A Step-by-Step Guide](https://github.com/farzan-dev13/openssl-ssl-guide)
+- A hands‑on tutorial on creating private keys, public keys, CSRs, and certificates using OpenSSL.
+
+  <table>
+    <tr>
+      <td>
+        <a href="https://github.com/farzan-dev13/openssl-ssl-guide">
+          <img src="https://raw.githubusercontent.com/farzan-dev13/openssl-ssl-guide/main/images/banner.png" width="400"/>
+        </a>
+      </td>
+    </tr>
+  </table>
 
 
 
